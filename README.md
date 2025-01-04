@@ -61,7 +61,6 @@
 
 ## 📫 Let's Connect
 - **LinkedIn**: [Omkar Patil](www.linkedin.com/in/omkar-vijay-patil)
-- **GitHub**: [OmkarPatil](https://github.com/omkaar-patil25)
 - **Email**: omcarpatil25@gmail.com
 
 ---

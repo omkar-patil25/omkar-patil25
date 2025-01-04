@@ -54,15 +54,6 @@
 
 ---
 
-## 🏅 Certifications
-- **Full Stack Web Development** - DevTown
-- **Google Cloud Ready Program** - Google
-- **SQL Essential Training** - LinkedIn Learning
-- **Introduction to Cybersecurity** - CISCO Networking Academy
-- **Programming for Everybody (Python)** - Coursera
-
----
-
 ## 🌱 Interests
 - Machine Learning
 - Real-time Stock Market & Finance Applications

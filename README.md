@@ -1,10 +1,10 @@
 # Omkar Patil
 
-👋 Hi there! I'm Omkar Patil, a passionate software engineer with expertise in full-stack development, mobile app development, and quality assurance. With a solid background in Python, Flutter, and automation tools, I enjoy building robust and scalable solutions that make an impact.
+👋 Hi there! I'm , a passionate engineer with expertise in full-stack development, mobile app development, and quality assurance. With a solid background in Python, Flutter, and automation tools, I enjoy building robust and scalable solutions that make an impact.
 
 -------------
 
-## 🌟 About Me
+## ✨ Who I Am
 - **Current Role**: CoC Engineer at Varroc Engineering Limited, Pune, India.
 - **Education**: B.E. in Computer Engineering from Pimpri Chinchwad College of Engineering and Research.
 - **Professional Experience**: 2+ years of industry experience in software development, quality assurance, and tool administration.
@@ -12,7 +12,7 @@
 
 ---
 
-## 💼 Professional Experience
+## 🚀 My Professional Path
 
 ### Varroc Engineering Limited (Dec 2022 – Present)
 - Developed and released **Quality Management System (QMS) 3.0** using Python, Django, and SQLite.
@@ -26,7 +26,7 @@
 
 ---
 
-## 📚 Projects
+## 💡⚙️ Key Initiatives
 
 ### Face Recognition Based Attendance System BOT
 - Built a face recognition bot using Python, TensorFlow, OpenCV, and Flask for automated attendance.
@@ -38,7 +38,7 @@
 
 ---
 
-## 🛠️ Skills
+## 🎯 Areas of Strength
 
 ### Programming & Frameworks
 - **Languages**: Python, Java, C++, Dart, JavaScript
@@ -52,14 +52,15 @@
 
 ---
 
-## 🌱 Interests
+## 🎮🌱 Things I Love
 - Machine Learning
 - Real-time Stock Market & Finance Applications
 - Bluetooth-based Mobile Applications
+- Football
 
 ---
 
-## 📫 Let's Connect
+## 📲 Reach Out to me
 - **LinkedIn**: [Omkar Patil](www.linkedin.com/in/omkar-vijay-patil)
 - **Email**: omcarpatil25@gmail.com
 

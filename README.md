@@ -20,7 +20,7 @@
 - Implemented CI/CD pipelines using Jenkins and Groovy, reducing IDE license costs.
 - Administered **GITLAB** and **PTC Windchill RV&S ALM Tool**, supporting upgradation and customization efforts.
 
-### Talentica Software Private Limited (Jan 2022 – Jun 2022)
+### Intern Talentica Software Private Limited (Jan 2022 – Jun 2022)
 - Worked as a QA Intern on a Supply Chain Management Web Application.
 - Standardized test plans, executed functional tests, and performed API testing using Postman.
 
